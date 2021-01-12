@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525567986 source:c:\users\shiko\desktop\temp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
