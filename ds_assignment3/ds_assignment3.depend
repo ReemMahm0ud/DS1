@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1524925554 source:c:\users\rania k\desktop\codes\ds_assignment3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"functions.h"
+
+1524858059 c:\users\rania k\desktop\codes\ds_assignment3\sc.h
+
+1524858786 c:\users\rania k\desktop\codes\ds_assignment3\lp.h
+
+1524923161 c:\users\rania k\desktop\codes\ds_assignment3\functions.h
+	"prototypes.h"
+	"linearProbing.h"
+	"separateChaining.h"
+
+1524923163 c:\users\rania k\desktop\codes\ds_assignment3\prototypes.h
+
+1524925554 c:\users\rania k\desktop\codes\ds_assignment3\linearprobing.h
+	"functions.h"
+	"prototypes.h"
+
+1524925554 c:\users\rania k\desktop\codes\ds_assignment3\separatechaining.h
+	"functions.h"
+	"prototypes.h"
+

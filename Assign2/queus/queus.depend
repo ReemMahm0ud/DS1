@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522253736 source:c:\users\shiko\desktop\queus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
